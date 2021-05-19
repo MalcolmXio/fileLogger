@@ -1,3 +1,3 @@
-include ':fileLogger'
+include ':logger'
 include ':app'
 rootProject.name = "fileLogger"
