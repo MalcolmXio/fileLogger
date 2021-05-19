@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ext_storage_write_permission_title">External storage read/write permission</string>
+    <string name="ext_storage_write_permission_message">On behalf of webim logs writing necessity, please add external storage read and write permission</string>
+    <string name="permission_ok_button">Ok</string>
+</resources>
